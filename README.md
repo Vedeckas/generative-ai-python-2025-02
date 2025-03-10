@@ -1,4 +1,3 @@
-# generative-ai-python-2025-02
 # 4-Week Practical Course: Application Programming with GEN-AI and Python
 
 ## Week 1: Python Foundations & Environment Setup
