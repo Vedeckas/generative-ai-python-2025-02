@@ -2,10 +2,10 @@
 
 ### Day 1.
 
-Intro to course, goals.
-About me.
-ai engineer
-vscode
-Git and Github
-https://chatgpt.com/
-Python basics
+- Intro to course, goals.
+- About me.
+- ai engineer
+- vscode
+- Git and Github
+- https://chatgpt.com/
+- Python basics
